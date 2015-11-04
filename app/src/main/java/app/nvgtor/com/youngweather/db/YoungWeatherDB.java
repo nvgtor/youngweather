@@ -17,6 +17,8 @@ import app.nvgtor.com.youngweather.model.Province;
  */
 public class YoungWeatherDB {
 
+    //单例模式
+
     /**
      * 数据库名
      */
